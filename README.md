@@ -1,6 +1,8 @@
 # WEEK5
 
-jest, test-library, 그리고 MSW와 Mocks를 사용하여 테스트 코드 작성하기
+- jest, test-library, 그리고 MSW와 Mocks를 사용하여 테스트 코드 작성하기
+- 회원가입, 로그인 기능 구현
+- 위시리스트 기능 구현
 
 ## ✨project 실행
 
